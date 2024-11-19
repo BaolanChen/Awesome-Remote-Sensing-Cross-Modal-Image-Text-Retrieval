@@ -14,8 +14,6 @@
 
 - **2024.11.13**: Update DDFAV and PIEViT.
 - **2024.11.06**: Update MMM-RS.
-- **2024.10.31**: Update CrossEarth and OReole-FM.
-- **2024.10.30**: Update two survey papers, Change-Agent.
 
 ## Table of Contents
 - **Models**
