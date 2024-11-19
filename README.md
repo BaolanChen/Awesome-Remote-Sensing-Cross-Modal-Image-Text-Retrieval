@@ -24,8 +24,6 @@
   - [Remote Sensing Generative Foundation Models](#remote-sensing-generative-foundation-models)
   - [Remote Sensing Vision-Location Foundation Models](#remote-sensing-vision-location-foundation-models)
   - [Remote Sensing Vision-Audio Foundation Models](#remote-sensing-vision-audio-foundation-models)
-  - [Remote Sensing Task-specific Foundation Models](#remote-sensing-task-specific-foundation-models)
-  - [Remote Sensing Agents](#remote-sensing-agents)
 - **Datasets & Benchmarks**
   - [Benchmarks for RSFMs](#benchmarks-for-rSFMs)
   - [(Large-scale) Pre-training Datasets](#large-scale-Pre-training-Datasets)
@@ -49,19 +47,6 @@
 |**RemoteCLIP**|**RemoteCLIP: A Vision Language Foundation Model for Remote Sensing**|Arxiv2023|[RemoteCLIP](https://arxiv.org/abs/2306.11029)|[link](https://github.com/ChenDelong1999/RemoteCLIP)|
 |**GeoRSCLIP**|**RS5M: A Large Scale Vision-Language Dataset for Remote Sensing Vision-Language Foundation Model**|Arxiv2023|[GeoRSCLIP](https://arxiv.org/abs/2306.11300)|[link](https://github.com/om-ai-lab/RS5M?tab=readme-ov-file)|
 |**GRAFT**|**Remote Sensing Vision-Language Foundation Models without Annotations via Ground Remote Alignment**|ICLR2024|[GRAFT](https://openreview.net/pdf?id=w9tc699w3Z)|null|
-|**-**|**Charting New Territories: Exploring the Geographic and Geospatial Capabilities of Multimodal LLMs**|Arxiv2023|[Paper](https://arxiv.org/abs/2311.14656)|[link](https://github.com/jonathan-roberts1/charting-new-territories)|
-|**-**|**Remote Sensing ChatGPT: Solving Remote Sensing Tasks with ChatGPT and Visual Models**|Arxiv2024|[Paper](https://arxiv.org/abs/2401.09083)|[link](https://github.com/HaonanGuo/Remote-Sensing-ChatGPT)|
-|**SkyEyeGPT**|**SkyEyeGPT: Unifying Remote Sensing Vision-Language Tasks via Instruction Tuning with Large Language Model**|Arxiv2024|[Paper](https://arxiv.org/abs/2401.09712)|[link](https://github.com/ZhanYang-nwpu/SkyEyeGPT)|
-|**EarthGPT**|**EarthGPT: A Universal Multi-modal Large Language Model for Multi-sensor Image Comprehension in Remote Sensing Domain**|Arxiv2024|[Paper](https://arxiv.org/abs/2401.16822)|null|
-|**SkyCLIP**|**SkyScript: A Large and Semantically Diverse Vision-Language Dataset for Remote Sensing**|AAAI2024|[SkyCLIP](https://arxiv.org/abs/2312.12856)|[link](https://github.com/wangzhecheng/SkyScript)|
-|**GeoChat**|**GeoChat: Grounded Large Vision-Language Model for Remote Sensing**|CVPR2024|[GeoChat](https://arxiv.org/abs/2311.15826)|[link](https://github.com/mbzuai-oryx/GeoChat)|
-|**LHRS-Bot**|**LHRS-Bot: Empowering Remote Sensing with VGI-Enhanced Large Multimodal Language Model**|Arxiv2024|[Paper](https://arxiv.org/abs/2402.02544)|[link](https://github.com/NJU-LHRS/LHRS-Bot)|
-|**H2RSVLM**|**H2RSVLM: Towards Helpful and Honest Remote Sensing Large Vision Language Model**|Arxiv2024|[Paper](https://arxiv.org/abs/2403.20213)|[link](https://github.com/opendatalab/H2RSVLM)|
-|**RS-LLaVA**|**RS-LLaVA: Large Vision Language Model for Joint Captioning and Question Answering in Remote Sensing Imagery**|RS2024|[Paper](https://www.mdpi.com/2072-4292/16/9/1477)|[link](https://github.com/BigData-KSU/RS-LLaVA?tab=readme-ov-file)|
-|**SkySenseGPT**|**SkySenseGPT: A Fine-Grained Instruction Tuning Dataset and Model for Remote Sensing Vision-Language Understanding**|Arxiv2024|[Paper](https://arxiv.org/abs/2406.10100)|[link](https://github.com/Luo-Z13/SkySenseGPT)|
-|**EarthMarker**|**EarthMarker: Visual Prompt Learning for Region-level and Point-level Remote Sensing Imagery Comprehension**|Arxiv2024|[Paper](https://arxiv.org/abs/2407.13596)|[link](https://github.com/wivizhang/EarthMarker)|
-|**GeoText**|**Towards Natural Language-Guided Drones: GeoText-1652 Benchmark with Spatial Relation Matching**|ECCV2024|[Paper](https://arxiv.org/abs/2311.12751)|[link](https://multimodalgeo.github.io/GeoText/)|
-|**TEOChat**|**TEOChat: Large Language and Vision Assistant for Temporal Earth Observation Data**|Arxiv2024|[Paper](https://arxiv.org/abs/2410.06234)|[link](https://github.com/ermongroup/TEOChat)|
 
 ## Remote Sensing <ins>Vision-Location</ins> Foundation Models
 
