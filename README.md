@@ -57,7 +57,7 @@
 |[RemoteCLIP](https://ieeexplore.ieee.org/document/9745546)|**RemoteCLIP: A Vision Language Foundation Model for Remote Sensing**|TGRS 2024|Hohai University|[Github](https://github.com/ChenDelong1999/RemoteCLIP)|
 |[SIRS](https://ieeexplore.ieee.org/document/10533243)|**Multitask Joint Learning for Remote Sensing Foreground-Entity Image–Text Retrieval**|TGRS 2024|Soochow University|[Github](https://github.com/StarBurstStream0/SIRS)|
 |[HVSA](https://ieeexplore.ieee.org/document/10533243)|**Hypersphere-Based Remote Sensing Cross-Modal Text–Image Retrieval via Curriculum Learning**|TGRS 2023|Aerospace Information Research Institute,  Chinese Academy of Sciences|[Github](https://github.com/ZhangWeihang99/HVSA)|
-
+|[SWAN](https://dl.acm.org/doi/abs/10.1145/3591106.3592236)|**Reducing Semantic Confusion Scene-aware Aggregation Network for Remote Sensing Cross-modal Retrieval**|ICMR 2023 oral|Zhejiang University of Technology |[Github](https://github.com/jaychempan/SWAN)|
 
 ## Remote Sensing <ins>Vision</ins> Foundation Models
 
