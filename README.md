@@ -11,10 +11,9 @@
 </div>
 
 ## 📢 Latest Updates
-:fire::fire::fire: Last Updated on 2024.11.13 :fire::fire::fire:
+:fire::fire::fire: Last Updated on 2024.12.05 :fire::fire::fire:
 
-- **2024.11.13**: Update DDFAV and PIEViT.
-- **2024.11.06**: Update MMM-RS.
+- **2024.12.05**: Update SIRS and HVSA.
 
 ## Table of Contents
 - **Models**
@@ -25,21 +24,39 @@
   - [Remote Sensing Vision-Audio Foundation Models](#remote-sensing-vision-audio-foundation-models)
 - **Datasets & Benchmarks**
   - [Benchmarks for RSFMs](#benchmarks-for-rSFMs)
-  - [(Large-scale) Pre-training Datasets](#large-scale-Pre-training-Datasets)
+  - [(Large-scale) Pre-training Datasets](#Remote-Sensing-Captions-Datasets)
 - **Others**
   - [Relevant Projects](#relevant-projects)
   - [Survey Papers](#survey-papers)
   
 
+## 📊 Remote Sensing Captions Datasets
+> Collect the more popular image-text pairs datasets on remote sensing, and welcome contact for additions if there are more.
+
+| Dataset Name                                                         | Image size | Image Resolution      | VLMs |
+| ------------------------------------------------------------ | ---------- | --------------- | ------------------------------------------------------------ |
+| [UCM-Captions](https://github.com/201528014227051/RSICD_optimal) | 613        | 256 × 256       | - |
+| [Sydney-Captions](https://github.com/201528014227051/RSICD_optimal) | 2,100      | 500 × 500       | - |
+| [RSICD](https://github.com/201528014227051/RSICD_optimal)    | 10,921     | 224 × 224       | - |
+| [RSITMD](https://github.com/xiaoyuan1996/AMFMN/tree/master/RSITMD) | 4,743      | 256 × 256       | - |
+| [NWPU-Captions](https://github.com/HaiyanHuang98/NWPU-Captions) | 31,500     | 256 × 256       | - |
+| [RS5M](https://github.com/om-ai-lab/RS5M)                    | 5 million+ | All Resolutions | [GeoRSCLIP](https://huggingface.co/Zilun/GeoRSCLIP) |
+| [SkyScript](https://github.com/wangzhecheng/SkyScript)                    | 5.2 million+ | All Resolutions | [SkyCLIP](https://github.com/wangzhecheng/SkyScript) |
 
   
 ## Remote Sensing Cross-Modal Image-Text Retrieval Models
 
-|Abbreviation|Title|Publication|Paper|Code|
-|:---:|---|:---:|:---:|:---:|
-|**PE-RSITR**|**Parameter-Efficient Transfer Learning for Remote Sensing Image–Text Retrieval**|TGRS2023|[PE-RSITR](https://ieeexplore.ieee.org/abstract/document/10231134)|[link](https://github.com/ZhanYang-nwpu/PE-RSITR)|
-|**SkyEyeGPT**|**Unifying Remote Sensing Vision-Language Tasks via Instruction Tuning with Large Language Model**|Arxiv2024|[SkyEyeGPT](https://arxiv.org/abs/2401.09712)|[link](https://github.com/ZhanYang-nwpu/SkyEyeGPT)|
-|**SkyEyeGPT**|**Unifying Remote Sensing Vision-Language Tasks via Instruction Tuning with Large Language Model**|Arxiv2024|[PE-RSITR](https://arxiv.org/abs/2401.09712)|[link](https://github.com/ZhanYang-nwpu/SkyEyeGPT)|
+|Paper|Title|Publication|Affiliation|Code|Note
+|:---:|---|:---:|:---:|:---:|:---:|
+|[VSE++](https://arxiv.org/abs/1707.05612)|**VSE++: Improving Visual-Semantic Embeddings with Hard Negatives**|BMVC 2018 spotlight |University of Toronto|[Github](https://github.com/fartashf/vsepp)|
+|[PE-RSITR](https://ieeexplore.ieee.org/abstract/document/10231134)|**Parameter-Efficient Transfer Learning for Remote Sensing Image–Text Retrieval**|TGRS 2023|Northwestern Polytechnical University|[Github](https://github.com/ZhanYang-nwpu/PE-RSITR)|
+|[SkyEyeGPT](https://arxiv.org/abs/2401.09712)|**Unifying Remote Sensing Vision-Language Tasks via Instruction Tuning with Large Language Model**|Arxiv 2024|Northwestern Polytechnical University|[Github](https://github.com/ZhanYang-nwpu/SkyEyeGPT)|
+|[PIR](https://dl.acm.org/doi/abs/10.1145/3581783.3612374)|**A Prior Instruction Representation Framework for Remote Sensing Image-text Retrieval**|ACMMM 2023 oral|Zhejiang University of Technology|[Github](https://github.com/Zjut-MultimediaPlus/PIR-pytorch)|
+|[GaLR](https://ieeexplore.ieee.org/document/9745546)|**Remote Sensing Cross-Modal Text-Image Retrieval Based on Global and Local Information**|TGRS 2022|Aerospace Information Research Institute,  Chinese Academy of Sciences|[Github](https://github.com/xiaoyuan1996/GaLR)|
+|[AMFMN](https://ieeexplore.ieee.org/document/9745546)|**Exploring a Fine-Grained Multiscale Method for Cross-Modal Remote Sensing Image Retrieval**|TGRS 2021|Aerospace Information Research Institute,  Chinese Academy of Sciences|[Github](https://github.com/xiaoyuan1996/GaLR)|
+|[RemoteCLIP](https://ieeexplore.ieee.org/document/9745546)|**RemoteCLIP: A Vision Language Foundation Model for Remote Sensing**|TGRS 2024|Hohai University|[Github](https://github.com/ChenDelong1999/RemoteCLIP)|
+|[SIRS](https://ieeexplore.ieee.org/document/10533243)|**Multitask Joint Learning for Remote Sensing Foreground-Entity Image–Text Retrieval**|TGRS 2024|Soochow University|[Github](https://github.com/StarBurstStream0/SIRS)|
+|[HVSA](https://ieeexplore.ieee.org/document/10533243)|**Hypersphere-Based Remote Sensing Cross-Modal Text–Image Retrieval via Curriculum Learning**|TGRS 2023|Aerospace Information Research Institute,  Chinese Academy of Sciences|[Github](https://github.com/ZhangWeihang99/HVSA)|
 
 
 ## Remote Sensing <ins>Vision</ins> Foundation Models
@@ -57,7 +74,7 @@
 |**RSGPT**|**RSGPT: A Remote Sensing Vision Language Model and Benchmark**|Arxiv2023|[RSGPT](https://arxiv.org/abs/2307.15266)|[link](https://github.com/Lavender105/RSGPT)|
 |**RemoteCLIP**|**RemoteCLIP: A Vision Language Foundation Model for Remote Sensing**|Arxiv2023|[RemoteCLIP](https://arxiv.org/abs/2306.11029)|[link](https://github.com/ChenDelong1999/RemoteCLIP)|
 |**GeoRSCLIP**|**RS5M: A Large Scale Vision-Language Dataset for Remote Sensing Vision-Language Foundation Model**|Arxiv2023|[GeoRSCLIP](https://arxiv.org/abs/2306.11300)|[link](https://github.com/om-ai-lab/RS5M?tab=readme-ov-file)|
-|**GRAFT**|**Remote Sensing Vision-Language Foundation Models without Annotations via Ground Remote Alignment**|ICLR2024|[GRAFT](https://openreview.net/pdf?id=w9tc699w3Z)|null|
+|**GRAFT**|**Remote Sensing Vision-Language Foundation Models without Annotations via Ground Remote Alignment**|ICLR2024|[GRAFT](https://openreview.net/pdf?id=w9tc699w3Z)|-|
 
 ## Remote Sensing <ins>Vision-Location</ins> Foundation Models
 
