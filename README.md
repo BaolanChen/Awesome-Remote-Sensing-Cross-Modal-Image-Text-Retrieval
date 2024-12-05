@@ -30,6 +30,18 @@
   - [Relevant Projects](#relevant-projects)
   - [Survey Papers](#survey-papers)
   
+
+
+  
+## Remote Sensing Cross-Modal Image-Text Retrieval Models
+
+|Abbreviation|Title|Publication|Paper|Code|
+|:---:|---|:---:|:---:|:---:|
+|**PE-RSITR**|**Parameter-Efficient Transfer Learning for Remote Sensing Image–Text Retrieval**|TGRS2023|[PE-RSITR](https://ieeexplore.ieee.org/abstract/document/10231134)|[link](https://github.com/ZhanYang-nwpu/PE-RSITR)|
+|**SkyEyeGPT**|**Unifying Remote Sensing Vision-Language Tasks via Instruction Tuning with Large Language Model**|Arxiv2024|[SkyEyeGPT](https://arxiv.org/abs/2401.09712)|[link](https://github.com/ZhanYang-nwpu/SkyEyeGPT)|
+|**SkyEyeGPT**|**Unifying Remote Sensing Vision-Language Tasks via Instruction Tuning with Large Language Model**|Arxiv2024|[PE-RSITR](https://arxiv.org/abs/2401.09712)|[link](https://github.com/ZhanYang-nwpu/SkyEyeGPT)|
+
+
 ## Remote Sensing <ins>Vision</ins> Foundation Models
 
 |Abbreviation|Title|Publication|Paper|Code & Weights|
