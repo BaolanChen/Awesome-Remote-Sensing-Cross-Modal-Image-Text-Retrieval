@@ -47,19 +47,18 @@
 
 |Paper|Title|Publication|Affiliation|Code|Note
 |:---:|---|:---:|:---:|:---:|:---:|
-|[VSE++](https://arxiv.org/abs/1707.05612)|**VSE++: Improving Visual-Semantic Embeddings with Hard Negatives**|BMVC 2018 spotlight |University of Toronto|[Github](https://github.com/fartashf/vsepp)|
-|[PE-RSITR](https://ieeexplore.ieee.org/abstract/document/10231134)|**Parameter-Efficient Transfer Learning for Remote Sensing Image–Text Retrieval**|TGRS 2023|Northwestern Polytechnical University|[Github](https://github.com/ZhanYang-nwpu/PE-RSITR)|
 |[SkyEyeGPT](https://arxiv.org/abs/2401.09712)|**Unifying Remote Sensing Vision-Language Tasks via Instruction Tuning with Large Language Model**|Arxiv 2024|Northwestern Polytechnical University|[Github](https://github.com/ZhanYang-nwpu/SkyEyeGPT)|
-|[PIR](https://dl.acm.org/doi/abs/10.1145/3581783.3612374)|**A Prior Instruction Representation Framework for Remote Sensing Image-text Retrieval**|ACMMM 2023 oral|Zhejiang University of Technology|[Github](https://github.com/Zjut-MultimediaPlus/PIR-pytorch)|
-|[GaLR](https://ieeexplore.ieee.org/document/9745546)|**Remote Sensing Cross-Modal Text-Image Retrieval Based on Global and Local Information**|TGRS 2022|Aerospace Information Research Institute,  Chinese Academy of Sciences|[Github](https://github.com/xiaoyuan1996/GaLR)|
-|[AMFMN](https://ieeexplore.ieee.org/document/9745546)|**Exploring a Fine-Grained Multiscale Method for Cross-Modal Remote Sensing Image Retrieval**|TGRS 2021|Aerospace Information Research Institute,  Chinese Academy of Sciences|[Github](https://github.com/xiaoyuan1996/GaLR)|
 |[RemoteCLIP](https://ieeexplore.ieee.org/document/9745546)|**RemoteCLIP: A Vision Language Foundation Model for Remote Sensing**|TGRS 2024|Hohai University|[Github](https://github.com/ChenDelong1999/RemoteCLIP)|
 |[SIRS](https://ieeexplore.ieee.org/document/10533243)|**Multitask Joint Learning for Remote Sensing Foreground-Entity Image–Text Retrieval**|TGRS 2024|Soochow University|[Github](https://github.com/StarBurstStream0/SIRS)|
+|[PIR](https://dl.acm.org/doi/abs/10.1145/3581783.3612374)|**A Prior Instruction Representation Framework for Remote Sensing Image-text Retrieval**|ACMMM 2023 oral|Zhejiang University of Technology|[Github](https://github.com/Zjut-MultimediaPlus/PIR-pytorch)|
+|[PE-RSITR](https://ieeexplore.ieee.org/abstract/document/10231134)|**Parameter-Efficient Transfer Learning for Remote Sensing Image–Text Retrieval**|TGRS 2023|Northwestern Polytechnical University|[Github](https://github.com/ZhanYang-nwpu/PE-RSITR)|
 |[HVSA](https://ieeexplore.ieee.org/document/10533243)|**Hypersphere-Based Remote Sensing Cross-Modal Text–Image Retrieval via Curriculum Learning**|TGRS 2023|Aerospace Information Research Institute,  Chinese Academy of Sciences|[Github](https://github.com/ZhangWeihang99/HVSA)|
 |[SWAN](https://dl.acm.org/doi/abs/10.1145/3591106.3592236)|**Reducing Semantic Confusion Scene-aware Aggregation Network for Remote Sensing Cross-modal Retrieval**|ICMR 2023 oral|Zhejiang University of Technology |[Github](https://github.com/jaychempan/SWAN)|
-|[Multilanguage Transformer ](https://ieeexplore.ieee.org/abstract/document/9925582)|**Multilanguage Transformer for Improved Text to Remote Sensing Image Retrieval**|JSTAR 2022|King Saud University|[-]|
+|[Multilanguage Transformer ](https://ieeexplore.ieee.org/abstract/document/9925582)|**Multilanguage Transformer for Improved Text to Remote Sensing Image Retrieval**|JSTAR 2022|King Saud University|-|
+|[GaLR](https://ieeexplore.ieee.org/document/9745546)|**Remote Sensing Cross-Modal Text-Image Retrieval Based on Global and Local Information**|TGRS 2022|Aerospace Information Research Institute,  Chinese Academy of Sciences|[Github](https://github.com/xiaoyuan1996/GaLR)|
+|[AMFMN](https://ieeexplore.ieee.org/document/9745546)|**Exploring a Fine-Grained Multiscale Method for Cross-Modal Remote Sensing Image Retrieval**|TGRS 2021|Aerospace Information Research Institute,  Chinese Academy of Sciences|[Github](https://github.com/xiaoyuan1996/GaLR)|
 |[LW-MCR](https://ieeexplore.ieee.org/abstract/document/9594840/)|**A Lightweight Multi-Scale Crossmodal Text-Image Retrieval Method in Remote Sensing**|TGRS 2021|Aerospace Information Research Institute,  Chinese Academy of Sciences|[Github](https://github.com/xiaoyuan1996/retrievalSystem)|
-
+|[VSE++](https://arxiv.org/abs/1707.05612)|**VSE++: Improving Visual-Semantic Embeddings with Hard Negatives**|BMVC 2018 spotlight |University of Toronto|[Github](https://github.com/fartashf/vsepp)|
 
 ## Remote Sensing <ins>Vision</ins> Foundation Models
 
