@@ -30,8 +30,7 @@
   - [Survey Papers](#survey-papers)
   
 
-## 📊 Remote Sensing Captions Datasets
-> Collect the more popular image-text pairs datasets on remote sensing, and welcome contact for additions if there are more.
+## Remote Sensing Image-Text Datasets
 
 | Dataset Name                                                         | Image size | Image Resolution      | VLMs |
 | ------------------------------------------------------------ | ---------- | --------------- | ------------------------------------------------------------ |
@@ -58,6 +57,9 @@
 |[SIRS](https://ieeexplore.ieee.org/document/10533243)|**Multitask Joint Learning for Remote Sensing Foreground-Entity Image–Text Retrieval**|TGRS 2024|Soochow University|[Github](https://github.com/StarBurstStream0/SIRS)|
 |[HVSA](https://ieeexplore.ieee.org/document/10533243)|**Hypersphere-Based Remote Sensing Cross-Modal Text–Image Retrieval via Curriculum Learning**|TGRS 2023|Aerospace Information Research Institute,  Chinese Academy of Sciences|[Github](https://github.com/ZhangWeihang99/HVSA)|
 |[SWAN](https://dl.acm.org/doi/abs/10.1145/3591106.3592236)|**Reducing Semantic Confusion Scene-aware Aggregation Network for Remote Sensing Cross-modal Retrieval**|ICMR 2023 oral|Zhejiang University of Technology |[Github](https://github.com/jaychempan/SWAN)|
+|[Multilanguage Transformer ](https://ieeexplore.ieee.org/abstract/document/9925582)|**Multilanguage Transformer for Improved Text to Remote Sensing Image Retrieval**|JSTAR 2022|King Saud University|[-]()|
+|[LW-MCR](https://ieeexplore.ieee.org/abstract/document/9594840/)|**A Lightweight Multi-Scale Crossmodal Text-Image Retrieval Method in Remote Sensing**|TGRS 2021|Aerospace Information Research Institute,  Chinese Academy of Sciences|[Github](https://github.com/xiaoyuan1996/retrievalSystem)|
+
 
 ## Remote Sensing <ins>Vision</ins> Foundation Models
 
