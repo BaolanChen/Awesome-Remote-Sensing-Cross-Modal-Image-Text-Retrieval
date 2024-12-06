@@ -92,3 +92,18 @@
 |**The Potential of Visual ChatGPT For Remote Sensing**|Arxiv2023|[Paper](https://arxiv.org/abs/2304.13009)|**Vision-Language**|
 |**遥感大模型：进展与前瞻**|武汉大学学报 (信息科学版) 2023|[Paper](http://ch.whu.edu.cn/cn/article/doi/10.13203/j.whugis20230341?viewType=HTML)|**Vision & Vision-Language**|
 
+
+## 问题、反馈和对此存储库的贡献
+
+我欢迎各种反馈，最好通过[GitHub Issues](https://github.com/BaolanChen/Awesome-Remote-Sensing-Cross-Modal-Retrieval/issues) 分享。
+同样，如果您有任何疑问或只是想与他人交流想法，请随时发布这些内容。
+
+## 致谢
+感谢相关论文、相关项目
+
+&nbsp;
+## 引用
+
+如果您发现本项目对您的研究有用，请考虑引用它。
+
+
