@@ -29,6 +29,14 @@
   - [Relevant Projects](#relevant-projects)
   - [Survey Papers](#survey-papers)
   
+## Remote Sensing Cross-Modal Image-Text Survey
+
+
+|Paper|Title|Publication|Affiliation|Note
+|:---:|---|:---:|:---:|:---:|
+|[Survey](https://ieeexplore.ieee.org/document/10506064)|**Vision-Language Models in Remote Sensing: Current progress and future trends**|GRSM 2024|King Abdullah University of Science and Technology|
+
+
 
 ## Remote Sensing Image-Text Datasets
 
@@ -59,6 +67,8 @@
 |[AMFMN](https://ieeexplore.ieee.org/document/9745546)|**Exploring a Fine-Grained Multiscale Method for Cross-Modal Remote Sensing Image Retrieval**|TGRS 2021|Aerospace Information Research Institute,  Chinese Academy of Sciences|[Github](https://github.com/xiaoyuan1996/GaLR)|
 |[LW-MCR](https://ieeexplore.ieee.org/abstract/document/9594840/)|**A Lightweight Multi-Scale Crossmodal Text-Image Retrieval Method in Remote Sensing**|TGRS 2021|Aerospace Information Research Institute,  Chinese Academy of Sciences|[Github](https://github.com/xiaoyuan1996/retrievalSystem)|
 |[VSE++](https://arxiv.org/abs/1707.05612)|**VSE++: Improving Visual-Semantic Embeddings with Hard Negatives**|BMVC 2018 spotlight |University of Toronto|[Github](https://github.com/fartashf/vsepp)|
+
+
 
 ## Remote Sensing <ins>Vision</ins> Foundation Models
 
