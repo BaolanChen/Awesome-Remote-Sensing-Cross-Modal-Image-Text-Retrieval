@@ -29,13 +29,15 @@
   - [Relevant Projects](#relevant-projects)
   - [Survey Papers](#survey-papers)
   
-## Remote Sensing Cross-Modal Image-Text Survey
+## Remote Sensing Image-Text Survey
 
 
 |Paper|Title|Publication|Affiliation|Note
 |:---:|---|:---:|:---:|:---:|
-|[Survey](https://ieeexplore.ieee.org/document/10506064)|**Vision-Language Models in Remote Sensing: Current progress and future trends**|GRSM 2024|King Abdullah University of Science and Technology|
-
+|[Paper](https://ieeexplore.ieee.org/document/10506064)|**Vision-Language Models in Remote Sensing: Current progress and future trends**|GRSM 2024|King Abdullah University of Science and Technology|
+|[Paper](https://ieeexplore.ieee.org/abstract/document/10126079)|**Self-Supervised Remote Sensing Feature Learning: Learning Paradigms, Challenges, and Future Works**|TGRS 2023||
+|[Paper](https://arxiv.org/abs/2304.13009)|**The Potential of Visual ChatGPT For Remote Sensing**|Arxiv 2023||
+|[Paper](http://ch.whu.edu.cn/cn/article/doi/10.13203/j.whugis20230341?viewType=HTML)|**遥感大模型：进展与前瞻**|武汉大学学报 (信息科学版) 2023||
 
 
 ## Remote Sensing Image-Text Datasets
@@ -95,12 +97,6 @@
 |**GeoCLIP**|**GeoCLIP: Clip-Inspired Alignment between Locations and Images for Effective Worldwide Geo-localization**|NeurIPS2023|[GeoCLIP](https://arxiv.org/abs/2309.16020)|[link](https://vicentevivan.github.io/GeoCLIP/)|
 |**SatCLIP**|**SatCLIP: Global, General-Purpose Location Embeddings with Satellite Imagery**|Arxiv2023|[SatCLIP](https://arxiv.org/abs/2311.17179)|[link](https://github.com/microsoft/satclip)|
 
-## Survey Papers
-|Title|Publication|Paper|Attribute|
-|---|:---:|:---:|:---:|
-|**Self-Supervised Remote Sensing Feature Learning: Learning Paradigms, Challenges, and Future Works**|TGRS2023|[Paper](https://ieeexplore.ieee.org/abstract/document/10126079)|**Vision & Vision-Language**|
-|**The Potential of Visual ChatGPT For Remote Sensing**|Arxiv2023|[Paper](https://arxiv.org/abs/2304.13009)|**Vision-Language**|
-|**遥感大模型：进展与前瞻**|武汉大学学报 (信息科学版) 2023|[Paper](http://ch.whu.edu.cn/cn/article/doi/10.13203/j.whugis20230341?viewType=HTML)|**Vision & Vision-Language**|
 
 
 ## 问题、反馈和对此存储库的贡献
