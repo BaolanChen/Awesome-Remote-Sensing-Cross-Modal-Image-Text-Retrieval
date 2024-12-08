@@ -37,7 +37,7 @@
 |[Paper](https://ieeexplore.ieee.org/document/10506064)|**Vision-Language Models in Remote Sensing: Current progress and future trends**|GRSM 2024|King Abdullah University of Science and Technology|
 |[Paper](https://ieeexplore.ieee.org/abstract/document/10126079)|**Self-Supervised Remote Sensing Feature Learning: Learning Paradigms, Challenges, and Future Works**|TGRS 2023|Central South University|
 |[Paper](https://arxiv.org/abs/2304.13009)|**The Potential of Visual ChatGPT For Remote Sensing**|Arxiv 2023|University of Western São Paulo|
-|[Paper](http://ch.whu.edu.cn/cn/article/doi/10.13203/j.whugis20230341?viewType=HTML)|**遥感大模型：进展与前瞻**|武汉大学学报 (信息科学版) 2023|武汉大学|
+|[Paper](http://ch.whu.edu.cn/cn/article/doi/10.13203/j.whugis20230341?viewType=HTML)|**遥感大模型：进展与前瞻**|武汉大学学报 (信息科学版) 2023|Wuhan University|
 
 
 ## Remote Sensing Image-Text Datasets
