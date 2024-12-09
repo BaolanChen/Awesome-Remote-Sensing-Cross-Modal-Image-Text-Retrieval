@@ -1,6 +1,6 @@
 <div align='center'>
   
-# Awesome-Remote-Sensing-Cross-Modal-Retrieval
+# Awesome-Remote-Sensing-Cross-Modal-Image-Text-Retrieval
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/BaolanChen/Awesome-Remote-Sensing-Cross-Modal-Retrieval)
 <img alt="GitHub watchers" src="https://img.shields.io/github/watchers/BaolanChen/Awesome-Remote-Sensing-Cross-Modal-Retrieval?style=social">
 <img alt="GitHub forks" src="https://img.shields.io/github/forks/BaolanChen/Awesome-Remote-Sensing-Cross-Modal-Retrieval?style=social">
@@ -57,19 +57,29 @@
 
 |Paper|Title|Publication|Affiliation|Code|Note
 |:---:|---|:---:|:---:|:---:|:---:|
+|[FGIS](https://ieeexplore.ieee.org/abstract/document/10716520)|**Fine-Grained Information Supplementation and Value-Guided Learning for Remote Sensing Image-Text Retrieval**|JSTARS 2024|Chongqing University|-|
+|[EBAKER](https://dl.acm.org/doi/abs/10.1145/3664647.3681270)|**Eliminate Before Align: A Remote Sensing Image-Text Retrieval Framework with Keyword Explicit Reasoning**|ACMMM 2024|Tianjin University|-|
+|[CUP](https://ieeexplore.ieee.org/abstract/document/10689627)|**Cross-Modal Remote Sensing Image–Text Retrieval via Context and Uncertainty-Aware Prompt**|TNNLS 2024|Xidian University|[Github](https://github.com/TangXu-Group/Cross-modal-remote-sensing-image-and-text-retrieval-models/tree/main/CUP)|
+|[MIIA](https://ieeexplore.ieee.org/abstract/document/10540645)|**Global–Local Information Soft-Alignment for Cross-Modal Remote-Sensing Image–Text Retrieval**|TGRS 2024|Northwestern Polytechnical University|-|
+|[GLISA](https://ieeexplore.ieee.org/abstract/document/10530286)|**Masking-Based Cross-Modal Remote Sensing Image–Text Retrieval via Dynamic Contrastive Learning**|TGRS 2024|China University of Mining and Technology|-|
 |[SkyEyeGPT](https://arxiv.org/abs/2401.09712)|**Unifying Remote Sensing Vision-Language Tasks via Instruction Tuning with Large Language Model**|Arxiv 2024|Northwestern Polytechnical University|[Github](https://github.com/ZhanYang-nwpu/SkyEyeGPT)|
+|[MFF-SFE](http://journal.ucas.ac.cn/CN/10.7523/j.ucas.2024.025)|**Cross-modal retrieval method based on MFF-SFE for remote sensing image-text**|中国科学院大学学报 2024|Aerospace Information Research Institute, Chinese Academy of Sciences|-|
 |[RemoteCLIP](https://ieeexplore.ieee.org/document/9745546)|**RemoteCLIP: A Vision Language Foundation Model for Remote Sensing**|TGRS 2024|Hohai University|[Github](https://github.com/ChenDelong1999/RemoteCLIP)|
+|[C2F-ITR](https://ieeexplore.ieee.org/abstract/document/10640383)|**From Coarse To Fine: An Offline-Online Approach for Remote Sensing Cross-Modal Retrieval**|IGARSS 2024|Beijing Foreign Studies University|-|
+
 |[SIRS](https://ieeexplore.ieee.org/document/10533243)|**Multitask Joint Learning for Remote Sensing Foreground-Entity Image–Text Retrieval**|TGRS 2024|Soochow University|[Github](https://github.com/StarBurstStream0/SIRS)|
 |[PIR](https://dl.acm.org/doi/abs/10.1145/3581783.3612374)|**A Prior Instruction Representation Framework for Remote Sensing Image-text Retrieval**|ACMMM 2023 oral|Zhejiang University of Technology|[Github](https://github.com/Zjut-MultimediaPlus/PIR-pytorch)|
 |[PE-RSITR](https://ieeexplore.ieee.org/abstract/document/10231134)|**Parameter-Efficient Transfer Learning for Remote Sensing Image–Text Retrieval**|TGRS 2023|Northwestern Polytechnical University|[Github](https://github.com/ZhanYang-nwpu/PE-RSITR)|
 |[HVSA](https://ieeexplore.ieee.org/document/10533243)|**Hypersphere-Based Remote Sensing Cross-Modal Text–Image Retrieval via Curriculum Learning**|TGRS 2023|Aerospace Information Research Institute,  Chinese Academy of Sciences|[Github](https://github.com/ZhangWeihang99/HVSA)|
 |[SWAN](https://dl.acm.org/doi/abs/10.1145/3591106.3592236)|**Reducing Semantic Confusion Scene-aware Aggregation Network for Remote Sensing Cross-modal Retrieval**|ICMR 2023 oral|Zhejiang University of Technology |[Github](https://github.com/jaychempan/SWAN)|
+|[KAMCL](https://ieeexplore.ieee.org/document/10315162)|**Knowledge-Aided Momentum Contrastive Learning for Remote-Sensing Image Text Retrieval**|TGRS 2023 |Tianjin University|[Github](https://github.com/mcx-mcx/KAMCL)|
+|[IEFT](https://ieeexplore.ieee.org/abstract/document/10138021)|**Interacting-Enhancing Feature Transformer for Cross-Modal Remote-Sensing Image and Text Retrieval**|TGRS 2023 |Xidian University|[Github](https://github.com/TangXu-Group/Cross-modal-remote-sensing-image-and-text-retrieval-models/tree/main/IEFT)|
+|[-](https://ieeexplore.ieee.org/document/10282896)|**A Texture and Saliency Enhanced Image Learning Method For Cross-Modal Remote Sensing Image-Text Retrieval**|IGARSS 2023 |Xidian University|-|
 |[Multilanguage Transformer ](https://ieeexplore.ieee.org/abstract/document/9925582)|**Multilanguage Transformer for Improved Text to Remote Sensing Image Retrieval**|JSTAR 2022|King Saud University|-|
 |[GaLR](https://ieeexplore.ieee.org/document/9745546)|**Remote Sensing Cross-Modal Text-Image Retrieval Based on Global and Local Information**|TGRS 2022|Aerospace Information Research Institute,  Chinese Academy of Sciences|[Github](https://github.com/xiaoyuan1996/GaLR)|
 |[AMFMN](https://ieeexplore.ieee.org/document/9745546)|**Exploring a Fine-Grained Multiscale Method for Cross-Modal Remote Sensing Image Retrieval**|TGRS 2021|Aerospace Information Research Institute,  Chinese Academy of Sciences|[Github](https://github.com/xiaoyuan1996/GaLR)|
 |[LW-MCR](https://ieeexplore.ieee.org/abstract/document/9594840/)|**A Lightweight Multi-Scale Crossmodal Text-Image Retrieval Method in Remote Sensing**|TGRS 2021|Aerospace Information Research Institute,  Chinese Academy of Sciences|[Github](https://github.com/xiaoyuan1996/retrievalSystem)|
 |[VSE++](https://arxiv.org/abs/1707.05612)|**VSE++: Improving Visual-Semantic Embeddings with Hard Negatives**|BMVC 2018 spotlight |University of Toronto|[Github](https://github.com/fartashf/vsepp)|
-
 
 
 ## Remote Sensing <ins>Vision</ins> Foundation Models
@@ -98,13 +108,13 @@
 |**SatCLIP**|**SatCLIP: Global, General-Purpose Location Embeddings with Satellite Imagery**|Arxiv2023|[SatCLIP](https://arxiv.org/abs/2311.17179)|[link](https://github.com/microsoft/satclip)|
 
 
+&nbsp;
 
 ## 问题、反馈和对此存储库的贡献
 
 我欢迎各种反馈，最好通过[GitHub Issues](https://github.com/BaolanChen/Awesome-Remote-Sensing-Cross-Modal-Retrieval/issues) 分享。
 同样，如果您有任何疑问或只是想与他人交流想法，请随时发布这些内容。
 
-&nbsp;
 ## 致谢
 感谢相关论文、相关项目
 
