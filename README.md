@@ -17,9 +17,6 @@
 - **Models**
   - [Remote Sensing Vision Foundation Models](#remote-sensing-vision-foundation-models)
   - [Remote Sensing Vision-Language Foundation Models](#remote-sensing-vision-language-foundation-models)
-  - [Remote Sensing Generative Foundation Models](#remote-sensing-generative-foundation-models)
-  - [Remote Sensing Vision-Location Foundation Models](#remote-sensing-vision-location-foundation-models)
-  - [Remote Sensing Vision-Audio Foundation Models](#remote-sensing-vision-audio-foundation-models)
 - **Datasets & Benchmarks**
   - [Benchmarks for RSFMs](#benchmarks-for-rSFMs)
   - [(Large-scale) Pre-training Datasets](#Remote-Sensing-Captions-Datasets)
