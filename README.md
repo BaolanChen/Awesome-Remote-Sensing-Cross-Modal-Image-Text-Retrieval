@@ -53,6 +53,7 @@
 
 |Paper|Title|Publication|Affiliation|Code|Note
 |:---:|---|:---:|:---:|:---:|:---:|
+|[CFITR](https://ieeexplore.ieee.org/abstract/document/10747393)|**Toward Efficient and Accurate Remote Sensing Image–Text Retrieval With a Coarse-to-Fine Approach**|GRSL 2024|Beijing Foreign Studies University|[Github](https://github.com/ZhWenQian/CFITR)|
 |[CDMAN](https://ieeexplore.ieee.org/abstract/document/10772105)|**Thread the Needle: Cues-Driven Multi-Association for Remote Sensing Cross-Modal Retrieval**|TGRS 2024|Wuhan University of Technology|-|
 |[MSA](https://ieeexplore.ieee.org/abstract/document/10758255)|**Transcending Fusion: A Multiscale Alignment Method for Remote Sensing Image–Text Retrieval**|TGRS 2024|Xidian University|[Github](https://github.com/yr666666/MSA)|
 |[KTIR](https://ieeexplore.ieee.org/abstract/document/10716520)|**Knowledge-aware Text-Image Retrieval for Remote Sensing Images**|TGRS 2024|EPFL|-|
