@@ -10,6 +10,7 @@
 
 ## 📢 Latest Updates
 :fire::fire::fire: Last Updated on 2024.12.09 :fire::fire::fire:
+- **2024.12.24**: Update CFITR.
 - **2024.12.09**: Update CDMAN、MSA、KTIR、CMPAGL、CCLS2T、SARCI、FSISR and SCAT.
 - **2024.12.05**: Update SIRS and HVSA.
 
