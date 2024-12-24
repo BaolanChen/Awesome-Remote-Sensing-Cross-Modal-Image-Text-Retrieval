@@ -81,6 +81,8 @@
 |[-](https://ieeexplore.ieee.org/document/10282896)|**A Texture and Saliency Enhanced Image Learning Method For Cross-Modal Remote Sensing Image-Text Retrieval**|IGARSS 2023 |Xidian University|-|
 |[Multilanguage Transformer ](https://ieeexplore.ieee.org/abstract/document/9925582)|**Multilanguage Transformer for Improved Text to Remote Sensing Image Retrieval**|JSTARS 2022|King Saud University|-|
 |[GaLR](https://ieeexplore.ieee.org/document/9745546)|**Remote Sensing Cross-Modal Text-Image Retrieval Based on Global and Local Information**|TGRS 2022|Aerospace Information Research Institute,  Chinese Academy of Sciences|[Github](https://github.com/xiaoyuan1996/GaLR)|
+|[-](https://www.tandfonline.com/doi/abs/10.1080/01431161.2023.2225705)|**Cross-modal retrieval of remote sensing images and text based on self-attention unsupervised deep common feature space**|IJRS 2022|National University of Defense Technology|-|
+
 |[AMFMN](https://ieeexplore.ieee.org/document/9745546)|**Exploring a Fine-Grained Multiscale Method for Cross-Modal Remote Sensing Image Retrieval**|TGRS 2021|Aerospace Information Research Institute,  Chinese Academy of Sciences|[Github](https://github.com/xiaoyuan1996/GaLR)|
 |[LW-MCR](https://ieeexplore.ieee.org/abstract/document/9594840/)|**A Lightweight Multi-Scale Crossmodal Text-Image Retrieval Method in Remote Sensing**|TGRS 2021|Aerospace Information Research Institute,  Chinese Academy of Sciences|[Github](https://github.com/xiaoyuan1996/retrievalSystem)|
 |[VSE++](https://arxiv.org/abs/1707.05612)|**VSE++: Improving Visual-Semantic Embeddings with Hard Negatives**|BMVC 2018 spotlight |University of Toronto|[Github](https://github.com/fartashf/vsepp)|
