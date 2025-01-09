@@ -104,6 +104,7 @@
 
 |Abbreviation|Title|Publication|Paper|Code & Weights|
 |:---:|---|:---:|:---:|:---:|
+|**VHM**|**VHM: Versatile and Honest Vision Language Model for Remote Sensing Image Analysis**|Arxiv 2024|[VHM](https://arxiv.org/abs/2403.20213)|[link](https://github.com/opendatalab/VHM)|
 |**TeoChat**|**TEOChat: A Large Vision-Language Assistant for Temporal Earth Observation Data**|Arxiv 2024|[TeoChat](https://arxiv.org/abs/2410.06234)|[link](https://github.com/ermongroup/TEOChat)|
 |**EarthMarker**|**EarthMarker: A Visual Prompting Multi-modal Large Language Model for Remote Sensing**|TGRS 2024|[EarthMarker](https://ieeexplore.ieee.org/abstract/document/10817639)|[link](https://github.com/wivizhang/EarthMarker)|
 |**GeoChat**|**GeoChat: Grounded Large Vision-Language Model for Remote Sensing**|CVPR 2024|[GeoChat](https://openaccess.thecvf.com/content/CVPR2024/html/Kuckreja_GeoChat_Grounded_Large_Vision-Language_Model_for_Remote_Sensing_CVPR_2024_paper.html)|[link](https://github.com/mbzuai-oryx/GeoChat)|
