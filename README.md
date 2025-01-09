@@ -103,7 +103,6 @@
 |Abbreviation|Title|Publication|Paper|Code & Weights|
 |:---:|---|:---:|:---:|:---:|
 |**TeoChat**|**TEOChat: A Large Vision-Language Assistant for Temporal Earth Observation Data**|Arxiv 2024|[TeoChat](https://arxiv.org/abs/2410.06234)|[link](https://github.com/ermongroup/TEOChat)|
-
 |**GeoChat**|**GeoChat: Grounded Large Vision-Language Model for Remote Sensing**|CVPR 2024|[GeoChat](https://openaccess.thecvf.com/content/CVPR2024/html/Kuckreja_GeoChat_Grounded_Large_Vision-Language_Model_for_Remote_Sensing_CVPR_2024_paper.html)|[link](https://github.com/mbzuai-oryx/GeoChat)|
 |**EarthGPT**|**EarthGPT: A Universal Multimodal Large Language Model for Multisensor Image Comprehension in Remote Sensing Domain**|TGRS 2024|[EarthGPT](https://ieeexplore.ieee.org/abstract/document/10547418)|[link](https://github.com/wivizhang/EarthGPT)|
 |**RemoteCLIP**|**RemoteCLIP: A Vision Language Foundation Model for Remote Sensing**|TGRS 2024|[RemoteCLIP](https://arxiv.org/abs/2306.11029)|[link](https://github.com/ChenDelong1999/RemoteCLIP)|
