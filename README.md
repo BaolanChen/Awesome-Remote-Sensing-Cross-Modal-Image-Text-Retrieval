@@ -9,7 +9,8 @@
 </div>
 
 ## 📢 Latest Updates
-:fire::fire::fire: Last Updated on 2024.12.09 :fire::fire::fire:
+:fire::fire::fire: Last Updated on 2025.01.09 :fire::fire::fire:
+- **2025.01.09**: Update PERSVL.
 - **2024.12.09**: Update CDMAN、MSA、KTIR、CMPAGL、CCLS2T、SARCI、FSISR and SCAT.
 - **2024.12.05**: Update SIRS and HVSA.
 
@@ -53,7 +54,7 @@
 
 |Paper|Title|Publication|Affiliation|Code|Note
 |:---:|---|:---:|:---:|:---:|:---:|
-|[CDMAN](https://ieeexplore.ieee.org/abstract/document/10772105)|**Thread the Needle: Cues-Driven Multi-Association for Remote Sensing Cross-Modal Retrieval**|TGRS 2024||[Github](https://github.com/TangXu-Group/Cross-modal-remote-sensing-image-and-text-retrieval-models/tree/main/PERSVL)|
+|[PERSVL](https://ieeexplore.ieee.org/abstract/document/10684217)|**Prior-Experience-based Vision-Language Model for Remote Sensing Image-Text Retrieval**|TGRS 2024|Xidian|[Github](https://github.com/TangXu-Group/Cross-modal-remote-sensing-image-and-text-retrieval-models/tree/main/PERSVL)|
 |[CDMAN](https://ieeexplore.ieee.org/abstract/document/10772105)|**Thread the Needle: Cues-Driven Multi-Association for Remote Sensing Cross-Modal Retrieval**|TGRS 2024|Wuhan University of Technology|-|
 |[MSA](https://ieeexplore.ieee.org/abstract/document/10758255)|**Transcending Fusion: A Multiscale Alignment Method for Remote Sensing Image–Text Retrieval**|TGRS 2024|Xidian University|[Github](https://github.com/yr666666/MSA)|
 |[KTIR](https://ieeexplore.ieee.org/abstract/document/10716520)|**Knowledge-aware Text-Image Retrieval for Remote Sensing Images**|TGRS 2024|EPFL|-|
