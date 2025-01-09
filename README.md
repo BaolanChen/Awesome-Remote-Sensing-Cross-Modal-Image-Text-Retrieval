@@ -10,6 +10,7 @@
 
 ## 📢 Latest Updates
 :fire::fire::fire: Last Updated on 2025.01.09 :fire::fire::fire:
+- **2025.01.10**: Update TeoChat、RingMoGPT and VHM.
 - **2025.01.09**: Update PERSVL、GeoChat.
 - **2024.12.24**: Update CFITR.
 - **2024.12.09**: Update CDMAN、MSA、KTIR、CMPAGL、CCLS2T、SARCI、FSISR and SCAT.
@@ -106,6 +107,7 @@
 |:---:|---|:---:|:---:|:---:|
 |**VHM**|**VHM: Versatile and Honest Vision Language Model for Remote Sensing Image Analysis**|Arxiv 2024|[VHM](https://arxiv.org/abs/2403.20213)|[link](https://github.com/opendatalab/VHM)|
 |**TeoChat**|**TEOChat: A Large Vision-Language Assistant for Temporal Earth Observation Data**|Arxiv 2024|[TeoChat](https://arxiv.org/abs/2410.06234)|[link](https://github.com/ermongroup/TEOChat)|
+|**RingMoGPT**|**RingMoGPT: A Unified Remote Sensing Foundation Model for Vision, Language, and grounded tasks**|TGRS 2024|[RingMoGPT](https://ieeexplore.ieee.org/abstract/document/10777289)|[link](-)|
 |**EarthMarker**|**EarthMarker: A Visual Prompting Multi-modal Large Language Model for Remote Sensing**|TGRS 2024|[EarthMarker](https://ieeexplore.ieee.org/abstract/document/10817639)|[link](https://github.com/wivizhang/EarthMarker)|
 |**GeoChat**|**GeoChat: Grounded Large Vision-Language Model for Remote Sensing**|CVPR 2024|[GeoChat](https://openaccess.thecvf.com/content/CVPR2024/html/Kuckreja_GeoChat_Grounded_Large_Vision-Language_Model_for_Remote_Sensing_CVPR_2024_paper.html)|[link](https://github.com/mbzuai-oryx/GeoChat)|
 |**EarthGPT**|**EarthGPT: A Universal Multimodal Large Language Model for Multisensor Image Comprehension in Remote Sensing Domain**|TGRS 2024|[EarthGPT](https://ieeexplore.ieee.org/abstract/document/10547418)|[link](https://github.com/wivizhang/EarthGPT)|
