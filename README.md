@@ -18,20 +18,22 @@
 ## Table of Contents
 - **Models**
   - [Remote Sensing Cross-Modal Image-Text Retrieval Models](#remote-sensing-image-text-retrieval-models)
+  - [Remote Sensing Vision-Language Modal Model for More Tasks](#Remote-Sensing-Vision-Language-Modal-Model-for-More-Tasks) 
   - [Remote Sensing Vision-Language Large & Foundation Models](#remote-sensing-vision-language-foundation-models)
 - **Datasets & Benchmarks**
   - [Benchmarks for RSFMs](#benchmarks-for-rSFMs)
   - [(Large-scale) Pre-training Datasets](#Remote-Sensing-Captions-Datasets)
-- **Others**
-  - [Relevant Projects](#relevant-projects)
+- **Survey**
   - [Survey Papers](#survey-papers)
+- **Projects**
+  - [Relevant Projects](#relevant-projects)
+
   
 ## Remote Sensing Cross-Modal Image-Text Survey
 
 |Paper|Title|Publication|Affiliation|Note
 |:---:|---|:---:|:---:|:---:|
-|[Paper](https://ieeexplore.ieee.org/document/10506064)|**When Geoscience Meets Foundation Models: Toward a general geoscience artificial intelligence system**|GRSM 2024|Nanjing University of Aeronautics and Astronautics|
-
+|[Paper](https://ieeexplore.ieee.org/abstract/document/10770814)|**When Geoscience Meets Foundation Models: Toward a general geoscience artificial intelligence system**|GRSM 2024|Nanjing University of Aeronautics and Astronautics|
 |[Paper](https://ieeexplore.ieee.org/document/10506064)|**Vision-Language Models in Remote Sensing: Current progress and future trends**|GRSM 2024|King Abdullah University of Science and Technology|
 |[Paper](https://ieeexplore.ieee.org/abstract/document/10278197)|**Language Integration in Remote Sensing: Tasks, datasets, and future directions**|GRSM 2023|King Saud University|
 |[Paper](https://ieeexplore.ieee.org/abstract/document/10126079)|**Self-Supervised Remote Sensing Feature Learning: Learning Paradigms, Challenges, and Future Works**|TGRS 2023|Central South University|
