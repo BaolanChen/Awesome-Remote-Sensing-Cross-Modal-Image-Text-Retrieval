@@ -33,6 +33,7 @@
 
 |Paper|Title|Publication|Affiliation|Note
 |:---:|---|:---:|:---:|:---:|
+|[Paper](https://arxiv.org/abs/2410.16602)|**Foundation Models for Remote Sensing and Earth Observation: A Survey**|Arxiv 2024|University of Tokyo and the|RIKEN Center for Advanced Intelligence Project, Japan|
 |[Paper](https://ieeexplore.ieee.org/abstract/document/10770814)|**When Geoscience Meets Foundation Models: Toward a general geoscience artificial intelligence system**|GRSM 2024|Nanjing University of Aeronautics and Astronautics|
 |[Paper](https://ieeexplore.ieee.org/document/10506064)|**Vision-Language Models in Remote Sensing: Current progress and future trends**|GRSM 2024|King Abdullah University of Science and Technology|
 |[Paper](https://ieeexplore.ieee.org/abstract/document/10278197)|**Language Integration in Remote Sensing: Tasks, datasets, and future directions**|GRSM 2023|King Saud University|
