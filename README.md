@@ -57,6 +57,7 @@
 | [SkyScript](https://github.com/wangzhecheng/SkyScript)                    | 5.2 million+ | All Resolutions | [SkyCLIP](https://github.com/wangzhecheng/SkyScript) | - |
 | [ChatEarthNet](https://arxiv.org/abs/2402.11325)                    | 163,488 + 10,000  | -| [ChatEarthNet](https://arxiv.org/abs/2402.11325) | The dataset will be made publicly available. |
 | [GEOBench-VLM](https://arxiv.org/abs/2411.19325)                    | over 10,000  | -| [GEOBench-VLM](https://github.com/The-AI-Alliance/GEO-Bench-VLM) | - |
+| [VRSBench](https://arxiv.org/abs/2406.12384)                    | 29,614   | -| [VRSBench](https://github.com/lx709/VRSBench) |  29,614 images, with 29,614 human-verified detailed captions, 52,472 object references, and 123,221 question-answer pairs (NeruIPS 2024 Dataset and Benchmark Track) |
 
   
 ## Remote Sensing Cross-Modal Image-Text Retrieval Models
@@ -101,7 +102,8 @@
 ## Remote Sensing <ins>Vision-Language</ins> Modal Model for More Tasks 
 |Paper|Title|Publication|Affiliation|Code|Note
 |:---:|---|:---:|:---:|:---:|:---:|
-|[FIANet](https://ieeexplore.ieee.org/abstract/document/10816052)|**Exploring Fine-Grained Image-Text Alignment for Referring Remote Sensing Image Segmentation**|TGRS 2024|Southwest Jiaotong University|[Github](https://github.com/Shaosifan/FIANet)|
+|[FIANet](https://ieeexplore.ieee.org/abstract/document/10816052)|**Exploring Fine-Grained Image-Text Alignment for Referring Remote Sensing Image Segmentation**|TGRS 2024|Southwest Jiaotong University|[Github](https://github.com/Shaosifan/FIANet)|Image Segmentation
+|[FedRSClip](https://arxiv.org/abs/2501.02461)|**FedRSClip: Federated Learning for Remote Sensing Scene Classification Using Vision-Language Models**|Arxiv 2024|China Academy of Electronics and Information Technology|[Github](-)|Scene Classification
 
 ## Remote Sensing <ins>Vision-Language</ins> Large & Foundation Models
 
