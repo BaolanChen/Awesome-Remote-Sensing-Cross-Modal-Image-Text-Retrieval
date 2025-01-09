@@ -34,6 +34,7 @@
 
 |Paper|Title|Publication|Affiliation|Note
 |:---:|---|:---:|:---:|:---:|
+|[Paper](https://www.mdpi.com/2072-4292/17/1/162)|**Advancements in Vision–Language Models for Remote Sensing: Datasets, Capabilities, and Enhancement Techniques**|Remote Sensing 2025|Northwestern Polytechnical University|
 |[Paper](https://arxiv.org/abs/2410.16602)|**Foundation Models for Remote Sensing and Earth Observation: A Survey**|Arxiv 2024|University of Tokyo and the RIKEN Center for Advanced Intelligence Project, Japan|
 |[Paper](https://ieeexplore.ieee.org/abstract/document/10770814)|**When Geoscience Meets Foundation Models: Toward a general geoscience artificial intelligence system**|GRSM 2024|Nanjing University of Aeronautics and Astronautics|
 |[Paper](https://ieeexplore.ieee.org/document/10506064)|**Vision-Language Models in Remote Sensing: Current progress and future trends**|GRSM 2024|King Abdullah University of Science and Technology|
@@ -55,6 +56,7 @@
 | [RS5M](https://github.com/om-ai-lab/RS5M)                    | 5 million+ | All Resolutions | [GeoRSCLIP](https://huggingface.co/Zilun/GeoRSCLIP) | - |
 | [SkyScript](https://github.com/wangzhecheng/SkyScript)                    | 5.2 million+ | All Resolutions | [SkyCLIP](https://github.com/wangzhecheng/SkyScript) | - |
 | [ChatEarthNet](https://arxiv.org/abs/2402.11325)                    | 163,488 + 10,000  | -| [ChatEarthNet](https://arxiv.org/abs/2402.11325) | The dataset will be made publicly available. |
+| [GEOBench-VLM](https://arxiv.org/abs/2411.19325)                    | over 10,000  | -| [GEOBench-VLM](https://github.com/The-AI-Alliance/GEO-Bench-VLM) | - |
 
   
 ## Remote Sensing Cross-Modal Image-Text Retrieval Models
