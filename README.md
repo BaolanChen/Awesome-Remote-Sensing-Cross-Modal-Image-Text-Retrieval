@@ -10,15 +10,15 @@
 
 ## 📢 Latest Updates
 :fire::fire::fire: Last Updated on 2025.01.09 :fire::fire::fire:
-- **2025.01.09**: Update PERSVL.
+- **2025.01.09**: Update PERSVL、GeoChat.
 - **2024.12.24**: Update CFITR.
 - **2024.12.09**: Update CDMAN、MSA、KTIR、CMPAGL、CCLS2T、SARCI、FSISR and SCAT.
 - **2024.12.05**: Update SIRS and HVSA.
 
 ## Table of Contents
 - **Models**
-  - [Remote Sensing Vision Foundation Models](#remote-sensing-vision-foundation-models)
-  - [Remote Sensing Vision-Language Foundation Models](#remote-sensing-vision-language-foundation-models)
+  - [Remote Sensing Cross-Modal Image-Text Retrieval Models](#remote-sensing-image-text-retrieval-models)
+  - [Remote Sensing Vision-Language Large & Foundation Models](#remote-sensing-vision-language-foundation-models)
 - **Datasets & Benchmarks**
   - [Benchmarks for RSFMs](#benchmarks-for-rSFMs)
   - [(Large-scale) Pre-training Datasets](#Remote-Sensing-Captions-Datasets)
@@ -28,9 +28,10 @@
   
 ## Remote Sensing Cross-Modal Image-Text Survey
 
-
 |Paper|Title|Publication|Affiliation|Note
 |:---:|---|:---:|:---:|:---:|
+|[Paper](https://ieeexplore.ieee.org/document/10506064)|**When Geoscience Meets Foundation Models: Toward a general geoscience artificial intelligence system**|GRSM 2024|Nanjing University of Aeronautics and Astronautics|
+
 |[Paper](https://ieeexplore.ieee.org/document/10506064)|**Vision-Language Models in Remote Sensing: Current progress and future trends**|GRSM 2024|King Abdullah University of Science and Technology|
 |[Paper](https://ieeexplore.ieee.org/abstract/document/10278197)|**Language Integration in Remote Sensing: Tasks, datasets, and future directions**|GRSM 2023|King Saud University|
 |[Paper](https://ieeexplore.ieee.org/abstract/document/10126079)|**Self-Supervised Remote Sensing Feature Learning: Learning Paradigms, Challenges, and Future Works**|TGRS 2023|Central South University|
@@ -90,17 +91,24 @@
 |[LW-MCR](https://ieeexplore.ieee.org/abstract/document/9594840/)|**A Lightweight Multi-Scale Crossmodal Text-Image Retrieval Method in Remote Sensing**|TGRS 2021|Aerospace Information Research Institute,  Chinese Academy of Sciences|[Github](https://github.com/xiaoyuan1996/retrievalSystem)|
 |[VSE++](https://arxiv.org/abs/1707.05612)|**VSE++: Improving Visual-Semantic Embeddings with Hard Negatives**|BMVC 2018 spotlight |University of Toronto|[Github](https://github.com/fartashf/vsepp)|
 
-## Remote Sensing <ins>Vision-Language</ins> Foundation Models
+## Remote Sensing <ins>Vision-Language</ins> Modal Model for More Tasks 
+|Paper|Title|Publication|Affiliation|Code|Note
+|:---:|---|:---:|:---:|:---:|:---:|
+|[FIANet](https://ieeexplore.ieee.org/abstract/document/10816052)|**Exploring Fine-Grained Image-Text Alignment for Referring Remote Sensing Image Segmentation**|TGRS 2024|Southwest Jiaotong University|[Github](https://github.com/Shaosifan/FIANet)|
+
+## Remote Sensing <ins>Vision-Language</ins> Large & Foundation Models
 
 |Abbreviation|Title|Publication|Paper|Code & Weights|
 |:---:|---|:---:|:---:|:---:|
-|**RSGPT**|**RSGPT: A Remote Sensing Vision Language Model and Benchmark**|Arxiv2023|[RSGPT](https://arxiv.org/abs/2307.15266)|[link](https://github.com/Lavender105/RSGPT)|
-|**RemoteCLIP**|**RemoteCLIP: A Vision Language Foundation Model for Remote Sensing**|Arxiv2023|[RemoteCLIP](https://arxiv.org/abs/2306.11029)|[link](https://github.com/ChenDelong1999/RemoteCLIP)|
-|**GeoRSCLIP**|**RS5M: A Large Scale Vision-Language Dataset for Remote Sensing Vision-Language Foundation Model**|Arxiv2023|[GeoRSCLIP](https://arxiv.org/abs/2306.11300)|[link](https://github.com/om-ai-lab/RS5M?tab=readme-ov-file)|
-|**GRAFT**|**Remote Sensing Vision-Language Foundation Models without Annotations via Ground Remote Alignment**|ICLR2024|[GRAFT](https://openreview.net/pdf?id=w9tc699w3Z)|-|
-|**CSP**|**CSP: Self-Supervised Contrastive Spatial Pre-Training for Geospatial-Visual Representations**|ICML2023|[CSP](https://arxiv.org/abs/2305.01118)|[link](https://gengchenmai.github.io/csp-website/)|
-|**GeoCLIP**|**GeoCLIP: Clip-Inspired Alignment between Locations and Images for Effective Worldwide Geo-localization**|NeurIPS2023|[GeoCLIP](https://arxiv.org/abs/2309.16020)|[link](https://vicentevivan.github.io/GeoCLIP/)|
-|**SatCLIP**|**SatCLIP: Global, General-Purpose Location Embeddings with Satellite Imagery**|Arxiv2023|[SatCLIP](https://arxiv.org/abs/2311.17179)|[link](https://github.com/microsoft/satclip)|
+|**GeoChat**|**GeoChat: Grounded Large Vision-Language Model for Remote Sensing**|CVPR 2024|[GeoChat](https://openaccess.thecvf.com/content/CVPR2024/html/Kuckreja_GeoChat_Grounded_Large_Vision-Language_Model_for_Remote_Sensing_CVPR_2024_paper.html)|[link](https://github.com/mbzuai-oryx/GeoChat)|
+|**EarthGPT**|**EarthGPT: A Universal Multimodal Large Language Model for Multisensor Image Comprehension in Remote Sensing Domain**|TGRS 2024|[EarthGPT](https://ieeexplore.ieee.org/abstract/document/10547418)|[link](https://github.com/wivizhang/EarthGPT)|
+|**RemoteCLIP**|**RemoteCLIP: A Vision Language Foundation Model for Remote Sensing**|TGRS 2024|[RemoteCLIP](https://arxiv.org/abs/2306.11029)|[link](https://github.com/ChenDelong1999/RemoteCLIP)|
+|**RSGPT**|**RSGPT: A Remote Sensing Vision Language Model and Benchmark**|Arxiv 2023|[RSGPT](https://arxiv.org/abs/2307.15266)|[link](https://github.com/Lavender105/RSGPT)|
+|**GeoRSCLIP**|**RS5M: A Large Scale Vision-Language Dataset for Remote Sensing Vision-Language Foundation Model**|Arxiv 2023|[GeoRSCLIP](https://arxiv.org/abs/2306.11300)|[link](https://github.com/om-ai-lab/RS5M?tab=readme-ov-file)|
+|**GRAFT**|**Remote Sensing Vision-Language Foundation Models without Annotations via Ground Remote Alignment**|ICLR 2024|[GRAFT](https://openreview.net/pdf?id=w9tc699w3Z)|-|
+|**CSP**|**CSP: Self-Supervised Contrastive Spatial Pre-Training for Geospatial-Visual Representations**|ICML 2023|[CSP](https://arxiv.org/abs/2305.01118)|[link](https://gengchenmai.github.io/csp-website/)|
+|**GeoCLIP**|**GeoCLIP: Clip-Inspired Alignment between Locations and Images for Effective Worldwide Geo-localization**|NeurIPS 2023|[GeoCLIP](https://arxiv.org/abs/2309.16020)|[link](https://vicentevivan.github.io/GeoCLIP/)|
+|**SatCLIP**|**SatCLIP: Global, General-Purpose Location Embeddings with Satellite Imagery**|Arxiv 2023|[SatCLIP](https://arxiv.org/abs/2311.17179)|[link](https://github.com/microsoft/satclip)|
 
 
 &nbsp;
