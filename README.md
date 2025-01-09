@@ -44,15 +44,16 @@
 
 ## Remote Sensing Image-Text Datasets
 
-| Dataset Name                                                         | Image size | Image Resolution      | VLMs |
-| ------------------------------------------------------------ | ---------- | --------------- | ------------------------------------------------------------ |
-| [UCM-Captions](https://github.com/201528014227051/RSICD_optimal) | 613        | 256 × 256       | - |
-| [Sydney-Captions](https://github.com/201528014227051/RSICD_optimal) | 2,100      | 500 × 500       | - |
-| [RSICD](https://github.com/201528014227051/RSICD_optimal)    | 10,921     | 224 × 224       | - |
-| [RSITMD](https://github.com/xiaoyuan1996/AMFMN/tree/master/RSITMD) | 4,743      | 256 × 256       | - |
-| [NWPU-Captions](https://github.com/HaiyanHuang98/NWPU-Captions) | 31,500     | 256 × 256       | - |
-| [RS5M](https://github.com/om-ai-lab/RS5M)                    | 5 million+ | All Resolutions | [GeoRSCLIP](https://huggingface.co/Zilun/GeoRSCLIP) |
-| [SkyScript](https://github.com/wangzhecheng/SkyScript)                    | 5.2 million+ | All Resolutions | [SkyCLIP](https://github.com/wangzhecheng/SkyScript) |
+| Dataset Name                                                         | Image size | Image Resolution      | VLMs |Note
+| ------------------------------------------------------------ | ---------- | --------------- | ------------------------------------------------------------ |------------------------------------------------------------ |
+| [UCM-Captions](https://github.com/201528014227051/RSICD_optimal) | 613        | 256 × 256       | - | - |
+| [Sydney-Captions](https://github.com/201528014227051/RSICD_optimal) | 2,100      | 500 × 500       | - | - |
+| [RSICD](https://github.com/201528014227051/RSICD_optimal)    | 10,921     | 224 × 224       | - | - |
+| [RSITMD](https://github.com/xiaoyuan1996/AMFMN/tree/master/RSITMD) | 4,743      | 256 × 256       | - | - |
+| [NWPU-Captions](https://github.com/HaiyanHuang98/NWPU-Captions) | 31,500     | 256 × 256       | - | - |
+| [RS5M](https://github.com/om-ai-lab/RS5M)                    | 5 million+ | All Resolutions | [GeoRSCLIP](https://huggingface.co/Zilun/GeoRSCLIP) | - |
+| [SkyScript](https://github.com/wangzhecheng/SkyScript)                    | 5.2 million+ | All Resolutions | [SkyCLIP](https://github.com/wangzhecheng/SkyScript) | - |
+| [ChatEarthNet](https://arxiv.org/abs/2402.11325)                    | 163,488 + 10,000  | -| [ChatEarthNet](https://arxiv.org/abs/2402.11325) | The dataset will be made publicly available. |
 
   
 ## Remote Sensing Cross-Modal Image-Text Retrieval Models
