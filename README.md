@@ -10,6 +10,7 @@
 
 ## 📢 Latest Updates
 :fire::fire::fire: Last Updated on 2025.01.09 :fire::fire::fire:
+- **2025.02.19**: Update CPPMN and SWPE.
 - **2025.01.10**: Update TeoChat、RingMoGPT and VHM.
 - **2025.01.09**: Update PERSVL、GeoChat.
 - **2024.12.24**: Update CFITR.
@@ -64,6 +65,8 @@
 
 |Paper|Title|Publication|Affiliation|Code|Note
 |:---:|---|:---:|:---:|:---:|:---:|
+|[SWPE](https://ieeexplore.ieee.org/document/10855571)|**Strong and Weak Prompt Engineering for Remote Sensing Image-Text Cross-Modal Retrieval**|JSTARS 2025|Ocean University of China|-|
+|[CPPMN](https://ieeexplore.ieee.org/abstract/document/10855517)|**Cross-Modal Progressive Perspective Matching Network for Remote Sensing Image-Text Retrieval**|TMM 2025|Ocean University of China|-|
 |[CFITR](https://ieeexplore.ieee.org/abstract/document/10747393)|**Toward Efficient and Accurate Remote Sensing Image–Text Retrieval With a Coarse-to-Fine Approach**|GRSL 2024|Beijing Foreign Studies University|[Github](https://github.com/ZhWenQian/CFITR)|
 |[PERSVL](https://ieeexplore.ieee.org/abstract/document/10684217)|**Prior-Experience-based Vision-Language Model for Remote Sensing Image-Text Retrieval**|TGRS 2024|Xidian|[Github](https://github.com/TangXu-Group/Cross-modal-remote-sensing-image-and-text-retrieval-models/tree/main/PERSVL)|
 |[CDMAN](https://ieeexplore.ieee.org/abstract/document/10772105)|**Thread the Needle: Cues-Driven Multi-Association for Remote Sensing Cross-Modal Retrieval**|TGRS 2024|Wuhan University of Technology|-|
