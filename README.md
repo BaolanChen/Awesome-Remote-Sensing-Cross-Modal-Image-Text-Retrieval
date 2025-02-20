@@ -9,7 +9,8 @@
 </div>
 
 ## 📢 Latest Updates
-:fire::fire::fire: Last Updated on 2025.01.09 :fire::fire::fire:
+:fire::fire::fire: Last Updated on 2025.02.20 :fire::fire::fire:
+- **2025.02.20**: Update ACF.
 - **2025.02.19**: Update CPPMN and SWPE.
 - **2025.01.10**: Update TeoChat、RingMoGPT and VHM.
 - **2025.01.09**: Update PERSVL、GeoChat.
@@ -65,6 +66,7 @@
 
 |Paper|Title|Publication|Affiliation|Code|Note
 |:---:|---|:---:|:---:|:---:|:---:|
+|[ACF](https://www.mdpi.com/2072-4292/17/3/503)|**Remote Sensing Cross-Modal Text-Image Retrieval Based on Attention Correction and Filtering**|Remote Sensing 2025|University of Electronic Science and Technology of China|-|
 |[SWPE](https://ieeexplore.ieee.org/document/10855571)|**Strong and Weak Prompt Engineering for Remote Sensing Image-Text Cross-Modal Retrieval**|JSTARS 2025|Ocean University of China|-|
 |[CPPMN](https://ieeexplore.ieee.org/abstract/document/10855517)|**Cross-Modal Progressive Perspective Matching Network for Remote Sensing Image-Text Retrieval**|TMM 2025|Ocean University of China|-|
 |[CFITR](https://ieeexplore.ieee.org/abstract/document/10747393)|**Toward Efficient and Accurate Remote Sensing Image–Text Retrieval With a Coarse-to-Fine Approach**|GRSL 2024|Beijing Foreign Studies University|[Github](https://github.com/ZhWenQian/CFITR)|
